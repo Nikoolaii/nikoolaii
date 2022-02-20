@@ -4,11 +4,7 @@
 
 - 🔭 I’m currently working on [Nendo](https://github.com/Nikoolaii/Nendo-py-V2)
 
-- 🌱 I’m currently learning **Python, Js**
-
-- 👨‍💻 All of my projects are available at [(soon)]((soon))
-
-- 💬 Ask me about **life...**
+- 🌱 I’m currently learning **Python, Javascript, Java, PHP**
 
 - 📫 How to reach me **nikolailemerre@gmail.com**
 
