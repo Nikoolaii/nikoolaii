@@ -12,8 +12,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nikoolaii_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nikoolaii_" height="30" width="40" /></a>
-<a href="https://discord.gg/PeRjhJa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PeRjhJa" height="30" width="40" /></a>
+<a href="https://twitter.com/nikoolaii_" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="nikoolaii_" height="30" width="40" /></a>
+<a href="https://discord.gg/PeRjhJa" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white
+" alt="PeRjhJa" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /> </a>
 </p>
 
