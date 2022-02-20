@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://twitter.com/nikoolaii_" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="nikoolaii_" /></a>
 <a href="https://discord.gg/PeRjhJa" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="PeRjhJa" /></a>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /> </a>
+<a href="https://open.spotify.com/user/flammefroder" target="blank"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /> </a>
 </p>
 
 <h3 align="left">Languages :</h3>
