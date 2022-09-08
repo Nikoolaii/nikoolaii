@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Nikolaï</h1>
-<h3 align="center">A noob developer from France</h3>
+<h3 align="center">Student / Developper from France</h3>
 
 - 🔭 I’m currently working on [Nendo](https://github.com/Nikoolaii/Nendo-py-V2)
 
