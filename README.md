@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Nendo](https://github.com/Nikoolaii/Nendo-py-V2)
 
-- 🌱 I’m currently learning **Python, Javascript, Java, PHP**
+- 🌱 I’m currently learning **Java, C#, Typescript, Dart**
 
 - 📫 How to reach me **nikolailemerre@gmail.com**
 
