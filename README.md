@@ -30,3 +30,12 @@
 <p align = "left">
 <img align = "center" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop" /> <img align = "center" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Premiere Pro" /> <img align = "center" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" /> <img align = "center" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" /> <img align = "center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code" /> <img align = "center" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="Prettier" /> <img align = "center" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" /> <img align = "center" src="" alt="" /> <img align = "center" src="" alt="" /> <img align = "center" src="" alt="" /> <img align = "center" src="" alt="" /> <img align = "center" src="" alt="" /> <img align = "center" src="" alt="" /> 
 </p>
+
+
+<br />
+
+### 📊 My Stats
+
+![Nikoolaii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikoolaii&count_private=true&show_icons=true&theme=vue-dark&custom_title=My%20Stats&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikoolaii&layout=compact&theme=vue-dark&custom_title=My%20Top%20Languages&card_width=450&langs_count=6)
