@@ -1,8 +1,7 @@
-### Hi there 👋
-<h1 align="center">Hi 👋, I'm Nikolaï</h1>
-<h3 align="center">Student / Developper from France</h3>
+<h1 align="center">Hi 👋, I'm Nikolaï a French fullstack developper</h1>
+<h3 align="center">Student / Developper</h3>
 
-- 🔭 I’m currently working on [Nendo](https://github.com/Nikoolaii/Nendo-py-V2)
+- 🔭 I’m currently working on //
 
 - 🌱 I’m currently learning **Java, C#, Typescript, Dart**
 
@@ -11,14 +10,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nikoolaii_" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="nikoolaii_" /></a>
-<a href="https://discord.gg/PeRjhJa" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="PeRjhJa" /></a>
+<a href="https://discord.gg/PeRjhJa" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="PeRjhJa" /></a>
 <a href="https://open.spotify.com/user/flammefroder" target="blank"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /> </a>
+<a href="https://www.linkedin.com/in/nikola%C3%AF-lemerre-bb1a18215/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <h3 align="left">Languages :</h3>
 <p align = "left">
-<img align = "center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> <img align = "center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> <img align = "center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> <img align = "center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /> <img align = "center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /> <img align = "center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" /> <img align = "center" src="" alt="" />
-</p>
+<img align = "center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> <img align = "center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> <img align = "center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> <img align = "center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /> <img align = "center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /> <img align = "center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Python" /></p>
 
 <h3 align="left">Frameworks :</h3>
 <p align = "left">
