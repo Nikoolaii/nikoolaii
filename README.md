@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on //
 
-- 🌱 I’m currently learning **Java, C#, Typescript, Dart**
+- 🌱 I’m currently learning **Symfony**
 
 - 📫 How to reach me **nikolailemerre@gmail.com**
 
