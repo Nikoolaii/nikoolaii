@@ -1,12 +1,13 @@
-<h1 align="center">Hi 👋, Nikolaï, French fullstack developper</h1>
+<h1 align="center">Nikolaï <br /> Fullstack developper from France</h1>
 <h3 align="center">Student / Developper</h3>
 <h4 align="center">In the 3rd year of a bachelor's degree in web development at ESGI in Lille, France</h4>
+<hr />
 
 - 🔭 I’m currently working on //
 
-- 🌱 I’m currently learning **Symfony**
+- 🌱 I’m currently learning : **Symfony**
 
-- 📫 How to reach me **nikolailemerre@gmail.com**
+- 📫 How to reach me : **nikolailemerre@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,7 +20,7 @@
 
 <h3 align="left">Frameworks :</h3>
 <p align = "left">
-<img align = "center" src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white" alt="Font Awesome" /> <img align = "center" src = "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt = "Tailwind" /> <img align = "center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt = "React" /> <img align="center" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" /> <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt = "MySQL" /> <img align="center" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" /> <img align="center" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" /> <img align="center" src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white" alt="Symfony" />
+<img align = "center" src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white" alt="Font Awesome" /> <img align = "center" src = "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt = "Tailwind" /> <img align = "center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt = "React" /> <img align="center" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" /> <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt = "MySQL" /> <img align="center" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" /> <img align="center" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" /> <img align="center" src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white" alt="Symfony" style="margin-top: 5px"/>
 
 </p>
 
