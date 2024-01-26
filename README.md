@@ -1,5 +1,6 @@
 <h1 align="center">Nikolaï <br /> Fullstack developper from France</h1>
 <h3 align="center">Student / Developper</h3>
+![](https://komarev.com/ghpvc/?username=nikoolaii)
 <h4 align="center">In the 3rd year of a bachelor's degree in web development at ESGI in Lille, France</h4>
 <hr />
 
