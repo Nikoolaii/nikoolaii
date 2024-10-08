@@ -8,7 +8,7 @@
 
 - 🔭 My main stack is **PHP**
 
-- 🌱 I’m currently learning : **Symfony**
+- 🌱 I’m currently learning : **VueJS**
 
 - 📫 How to reach me : **nikolailemerre@gmail.com**
 
