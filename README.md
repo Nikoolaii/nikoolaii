@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://badges.zahtec.com/views/nikoolaii">
 </p>
-<h4 align="center">In the 3rd year of a bachelor's degree in web development at ESGI in Lille, France</h4>
+<h4 align="center">In the 1st year of mastere's degree in web development at ESGI in Lille, France</h4>
 <hr />
 
 - 🔭 My main stack is **PHP**
