@@ -51,9 +51,10 @@ Gaston Berger, Lille France
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=Symfony&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
-### Database : 
+### Database & integration: 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![PostGresql](https://img.shields.io/badge/postgresql-4169e1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
 
 ### Software and tools : 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=) 
